@@ -1,0 +1,11 @@
+D:\SimATM\SimATM\bin\Release\SimATM.exe.config
+D:\SimATM\SimATM\bin\Release\SimATM.exe
+D:\SimATM\SimATM\bin\Release\SimATM.pdb
+D:\SimATM\SimATM\obj\Release\SimATM.csprojResolveAssemblyReference.cache
+D:\SimATM\SimATM\obj\Release\SimATM.userSim.resources
+D:\SimATM\SimATM\obj\Release\SimATM.ComCen.resources
+D:\SimATM\SimATM\obj\Release\SimATM.Properties.Resources.resources
+D:\SimATM\SimATM\obj\Release\SimATM.csproj.GenerateResource.Cache
+D:\SimATM\SimATM\obj\Release\SimATM.csproj.CoreCompileInputs.cache
+D:\SimATM\SimATM\obj\Release\SimATM.exe
+D:\SimATM\SimATM\obj\Release\SimATM.pdb
